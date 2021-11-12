@@ -23,7 +23,7 @@
 | 视图层 | Assets/Scenes/Test/GUI/MallPanel   | 显示商城UI           |          |
 | 工具层 | Assets/prefab                         | 存放UI的预制件       |          |
 | 工具层 | Assets/ThirdParty                     | 第三方插件           |          |
-
+| 数据层 | Assets/JSON                           | 存放JSON数据
 
 
 ## 4.存储设计
