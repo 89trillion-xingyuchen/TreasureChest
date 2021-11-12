@@ -19,8 +19,8 @@
 | 脚本层 | Assets/Function1                      | 点击按钮进行页面跳转 |          |
 | 脚本层 | Assets/Function2                      | 控制每日精选         |          |
 | 脚本层 | Assets/Function3                      | 控制士兵招募         |          |
-| 视图层 | Assets/Scenes/SampleScene/ParentPanel | 显示按键             |          |
-| 视图层 | Assets/Scenes/SampleScene/MallPanel   | 显示商城UI           |          |
+| 视图层 | Assets/Scenes/Test/GUI/ParentPanel | 显示按键             |          |
+| 视图层 | Assets/Scenes/Test/GUI/MallPanel   | 显示商城UI           |          |
 | 工具层 | Assets/prefab                         | 存放UI的预制件       |          |
 | 工具层 | Assets/ThirdParty                     | 第三方插件           |          |
 
